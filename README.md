@@ -21,7 +21,9 @@ El objetivo principal de este proyecto fue:
    - Se cargaron los datos del archivo Excel en un DataFrame de Pandas.
    - Se realizaron procesos de limpieza, como la conversión de tipos de datos, manejo de valores nulos e inesperados, y normalización de datos.
    - Se aplicaron funciones de hash y transformaciones para la creación de claves únicas.
-   
+
+[![excelpi.png](https://i.postimg.cc/bwSVNLYG/excelpi.png)](https://postimg.cc/yDByLmZB)
+
 3. **Diseño de la Base de Datos:**
    - Se definieron las tablas y sus relaciones utilizando SQLAlchemy.
    - Se crearon las estructuras de datos correspondientes para reflejar la estructura del modelo de datos.
@@ -35,6 +37,7 @@ El objetivo principal de este proyecto fue:
 
 ## Desafíos y Soluciones
 
+[![tablanegocio.png](https://i.postimg.cc/L69MXcGJ/tablanegocio.png)](https://postimg.cc/K4HWpHGb)
 ### Desafíos Encarados
 
 1. **Manipulación y Tratamiento de Datos Complejos:**
@@ -59,4 +62,3 @@ El proyecto ha permitido transformar con éxito los datos del archivo Excel prop
 
 ---
 
-Este es un ejemplo de cómo podría estructurarse un informe profesional que documente tu proyecto ETL. Puedes personalizarlo según los detalles específicos de tu proyecto, agregando más detalles sobre desafíos específicos, soluciones técnicas aplicadas, y otros puntos relevantes que quieras resaltar en tu informe.
