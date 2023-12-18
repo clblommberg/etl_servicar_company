@@ -1,0 +1,11 @@
+/env
+/alembic
+alembic.ini
+~$BD AUTOGAS.xlsx
+BD AUTOGAS.xlsx
+CR 7 M2 FT20.sql
+Lecture FT20.ipynb
+__pycache__
+data/raw/~$dataset.xlsx
+promtproyecto.txt
+/notebooks/EDA.ipynb
