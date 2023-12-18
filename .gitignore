@@ -9,3 +9,7 @@ __pycache__
 data/raw/~$dataset.xlsx
 promtproyecto.txt
 /notebooks/EDA.ipynb
+car.sql
+carCompany_Scrip.txt
+config_database.py
+procesamiento.py
