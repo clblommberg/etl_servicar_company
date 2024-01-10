@@ -37,7 +37,7 @@ El objetivo principal de este proyecto fue:
 
 ## Desafíos y Soluciones
 
-[![tablanegocio.png](https://i.postimg.cc/L69MXcGJ/tablanegocio.png)](https://postimg.cc/K4HWpHGb)
+[![model-servicar.png](https://i.postimg.cc/FF2cSCQ5/model-servicar.png)](https://postimg.cc/jC4L0X5Z)
 ### Desafíos Encarados
 
 1. **Manipulación y Tratamiento de Datos Complejos:**
